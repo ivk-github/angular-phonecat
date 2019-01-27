@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'AngularJS Phone catalog tutorial (branch test01)';
+  title = 'AngularJS Phone catalog tutorial';
 }
